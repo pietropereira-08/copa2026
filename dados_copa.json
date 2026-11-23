@@ -1,0 +1,14 @@
+{
+  "A": [
+    { "nome": "México", "rankingFifa": 15 },
+    { "nome": "África Sul", "rankingFifa": 59 },
+    { "nome": "Rep. Checa", "rankingFifa": 36 },
+    { "nome": "Coreia Sul", "rankingFifa": 22 }
+  ],
+  "C": [
+    { "nome": "Brasil", "rankingFifa": 5 },
+    { "nome": "Marrocos", "rankingFifa": 14 },
+    { "nome": "Escócia", "rankingFifa": 45 },
+    { "nome": "Haiti", "rankingFifa": 86 }
+  ]
+}
